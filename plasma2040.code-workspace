@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../media/meggleton/CIRCUITPY"
+		},
+		{
+			"path": "../../Downloads/adafruit-circuitpython-bundle-7.x-mpy-20211125/examples"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.hex": "hexEditor.hexedit"
+		}
+	}
+}
